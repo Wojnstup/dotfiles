@@ -1,0 +1,3 @@
+#! /bin/bash
+/home/wojnstup/Github/dwm/conf.sh "/home/wojnstup/Pictures/Wallpapers/$(ls -1 /home/wojnstup/Pictures/Wallpapers/ | shuf -n 1)"
+startx
