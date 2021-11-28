@@ -1,0 +1,10 @@
+socket_path="/tmp/mpvsocket"
+list_file="$HOME/.pipecat_turbo_lists"
+
+menu='dmenu -sb "sel_bg" -fn "Terminus" -nb "norm_bg" -h 20'
+menu_prompt='dmenu -sb "sel_bg" -fn "Terminus" -nb "norm_bg" -h 20 -p'
+menu_lines='dmenu -sb "sel_bg" -fn "Terminus" -nb "norm_bg" -h 20 -l 10'
+
+video_url="https://iteroni.com"
+url="https://yewtu.be/search?q="
+sed_url="https:\/\/yewtu.be"
